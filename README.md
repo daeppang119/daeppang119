@@ -14,3 +14,6 @@ Framwork  <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/daeppang119?pet-id=1" width="1000" height="120"/>
 </a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{daeppang119"/>
+</a>
