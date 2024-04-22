@@ -1,7 +1,7 @@
 I'm Park Yuna, Frontend-Developer :)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/daeppang119?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/daeppang119?pet-id=2" width="1000" height="120"/>
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeppang119&show_icons=true&theme=radical)
